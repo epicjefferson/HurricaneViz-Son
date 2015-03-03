@@ -1,2 +1,2 @@
 # HurricaneViz-Son
-Visualization &amp; Sonification of every recorded North Altalntic Hurricane
+Visualization &amp; Sonification of every recorded North Atlantic Hurricane
